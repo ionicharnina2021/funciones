@@ -7,6 +7,7 @@
     testMil();
 } 
 //function defined 
+//SEgundo cambio
 function greet():string { //the function returns a string 
    return "Hello World" 
 } 
